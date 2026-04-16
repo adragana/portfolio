@@ -5,7 +5,7 @@ const portfolioProjects = [
     "summary": "A distributed client-server platform for intuitive neural network design, enabling parallel model training and real-time experiment tracking.",
     "role": "Full-stack development",
     "year": "2026",
-    "stack": ["Angular", ".NET Core", "Python/Flask", "MySQL", "EF Core"],
+    "stack": ["Angular", ".NET Core", "Python", "MySQL", "EF Core"],
     "detailPage": "projects/igrannonica.html",
     "heroImage": "../assets/m3.png",
     "cardImage": "assets/igrannonica4.png",
